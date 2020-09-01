@@ -1,0 +1,48 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #ffffeb
+}
+.nav {
+    background-color: #fcb103;
+    overflow: hidden;
+    padding: 7px;
+}
+.frf {
+    float: left;
+}
+.navlinks {
+ float: right;   
+}
+a:hover {
+    text-decoration: underline;
+    color: purple;
+}
+.infocards {
+    word-wrap: break-word;
+    border: 2px solid #fcb103;
+    margin: 30px 10px 10px 10px;
+    width: 200px;
+    display: inline-block;
+    border-radius: 3px;
+    background-color: white;
+    height: 300px;
+    vertical-align: middle;
+}
+.cards {
+    margin-left: 10%;
+}
+input[type=submit] {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5px;
+    background-color: #fcb103;
+    border: none;
+    border-radius: 3px;
+    position: relative;
+    bottom: 0px;
+}
+p {
+
+}
